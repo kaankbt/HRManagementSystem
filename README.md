@@ -1,6 +1,8 @@
 # HRManagementSystem
 Human Resource Management System Application
 
+<a href="https://github.com/kaankbt/HRManagementSystem"><img src="https://github.com/kaankbt/HRManagementSystem/blob/main/HRManagementSystem/images/sql.png?raw=true" height="500"></a>
+
 
 ### Used Programs
 
